@@ -4,4 +4,4 @@ const order = {};
 //   console.log('City is required');
 // }
 
- console.log(order.costumer?.address?.city?.());
+ console.log(order?.costumer?.address?.city);
